@@ -19,7 +19,7 @@ const Footer = () => {
         style={{ textDecoration: 'none' }}
       >
         <img 
-          src="/Absentismo/images/xynaxis.png" 
+          src="/Absentismo/vendors/images/xynaxis.png" 
           alt="Xynaxis Logo" 
           style={{ 
             width: '35px', 
