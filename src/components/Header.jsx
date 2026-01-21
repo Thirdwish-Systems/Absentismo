@@ -105,7 +105,7 @@ const Header = ({ onSettingsClick }) => {
               onClick={() => setShowUserDropdown(!showUserDropdown)}
             >
               <span className="user-icon">
-                <img src="/vendors/images/ana_delgado.jpg" alt="User" />
+                <img src="/Absentismo/images/ana_delgado.jpg" alt="User" />
               </span>
               <span className="user-name">Ana Delgado</span>
             </a>
@@ -134,7 +134,7 @@ const Header = ({ onSettingsClick }) => {
             target="_blank"
             rel="noreferrer"
           >
-            <img src="/vendors/images/github.svg" alt="Github" />
+            <img src="/Absentismo/images/github.svg" alt="Github" />
           </a>
         </div>
       </div>
