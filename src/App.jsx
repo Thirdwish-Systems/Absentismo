@@ -27,7 +27,7 @@ import PlantillaVacia from "./pages/PlantillaVacia";
 
 function App() {
   return (
-    <Router>
+    <Router basename="/Absentismo">
       <div className="App">
         <Routes>
           <Route path="/" element={<Login />} />
