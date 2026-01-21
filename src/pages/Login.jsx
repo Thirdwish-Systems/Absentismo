@@ -79,7 +79,7 @@ const Login = () => {
           <div className="row align-items-center">
             {/* Columna de imagen (un poco más pequeña) */}
             <div className="col-md-5 col-lg-5 d-none d-md-block">
-              <img src="/vendors/images/login-page-img.png" alt="login" />
+              <img src="/Absentismo/images/login-page-img.png" alt="login" />
             </div>
             
             {/* Columna de formulario (Más ancha: col-lg-7) */}
